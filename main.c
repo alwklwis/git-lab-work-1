@@ -7,6 +7,7 @@ int main() {
     printf("Enter b: ");
     scanf_s("%d", &b);
     printf("Sum = %d", a + b);
+    printf("Raz = %d", a-b);
 
     return 0;
 }
