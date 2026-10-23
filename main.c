@@ -7,7 +7,9 @@ int main() {
     printf("Enter b: ");
     scanf_s("%d", &b);
     printf("Difference = %d", a - b);
-    printf("Raz = %d", a - b);
+    printf("Proiz = %d", a * b);
+
+    // test C4
 
     return 0;
 }
