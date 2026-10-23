@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    int a, b;
+    printf("Введите a: ");
+    scanf("%d", &a);
+    printf("Введите b: ");
+    scanf("%d", &b);
+
     return 0;
 }
