@@ -13,5 +13,6 @@ int main() {
     // test C5
 
     // C5
+    // С6
     return 0;
 }
