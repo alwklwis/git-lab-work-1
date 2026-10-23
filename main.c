@@ -6,8 +6,7 @@ int main() {
     scanf_s("%d", &a);
     printf("Enter b: ");
     scanf_s("%d", &b);
-    printf("Difference = %d", a - b);
-    printf("Proiz = %d", a * b);
+    printf("TEST: %d", a * b);
 
     // test C4
 
