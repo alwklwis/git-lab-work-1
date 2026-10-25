@@ -25,5 +25,6 @@ int main() {
 
     // Test no conflict
     // C3
+    // C4
     return 0;
 }
