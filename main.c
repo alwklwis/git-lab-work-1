@@ -7,7 +7,7 @@ int main() {
     printf("Enter b: ");
     scanf("%d", &b);
     printf("Difference: %d", a - b);
-
+    // Master change
     // test C4
 
     // test C5
@@ -22,6 +22,6 @@ int main() {
     // С9
 
     
-    // Master change
+
     return 0;
 }
