@@ -27,5 +27,7 @@ int main() {
     // C3
     // C4
     // C10
+    // С8
+
     return 0;
 }
