@@ -3,10 +3,10 @@
 int main() {
     int a, b;
     printf("Enter a: ");
-    scanf_s("%d", &a);
+    scanf("%d", &a);
     printf("Enter b: ");
-    scanf_s("%d", &b);
-    printf("MASTER: %d", a - b);
+    scanf("%d", &b);
+    printf("Difference: %d", a - b);
 
     // test C4
 
