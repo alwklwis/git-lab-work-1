@@ -22,5 +22,6 @@ int main() {
     // С9
 
     // Test no conflict
+    
     return 0;
 }
